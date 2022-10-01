@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 /**
  *
- * @author lcont
+ * @author wan
  */
 public class App extends javax.swing.JFrame {
     static String start = "z";
